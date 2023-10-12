@@ -1,11 +1,11 @@
 ---
-toc: false
+toc: true
 comments: false
 layout: post
-title: Classic Snake Game
-description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.
+title: Snake
 type: tangibles
-courses: { compsci: {week: 2} }
+courses: { "csp": {"week": 1} }
+permalink: /snake-classic
 ---
 
 <style>

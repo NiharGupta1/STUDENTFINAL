@@ -1,3 +1,13 @@
+---
+toc: true
+comments: true
+layout: post
+title: VSCode, Python, Jupyter, ...
+courses: {"csp": {"week": 0} }
+type: hacks
+permalink: /VsCode-Python
+---
+
 
 ## Hacks
 > Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
